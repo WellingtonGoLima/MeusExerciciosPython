@@ -1,0 +1,2 @@
+# MeusExerciciosPython
+Exercicios  Python.
